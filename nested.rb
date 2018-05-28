@@ -86,6 +86,7 @@ programmer_hash[:yukihiro_matsumoto] = {
   languages: ["LISP", "C"]
 }
 programmer_hash
+binding.pry
 end
 
 
@@ -131,3 +132,4 @@ def adding_to_dennis
      }
 
 end
+
